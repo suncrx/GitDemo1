@@ -20,6 +20,10 @@ int div(int a, int b)
 	return a/b;
 }
 
+int cc()
+{
+}
+
 
 //this is a demo of github
 //cloned from the main
